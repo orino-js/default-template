@@ -1,2 +1,3 @@
 
-import { } from '@orino/dev';
+import { } from '@orinojs/dev';
+
