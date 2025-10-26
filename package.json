@@ -7,6 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node ./intermediate/serve/dev-start.js",
+    "dist": "node ./intermediate/builder/build.js"
   }
 }
